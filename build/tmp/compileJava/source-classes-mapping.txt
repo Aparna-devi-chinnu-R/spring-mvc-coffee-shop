@@ -1,0 +1,8 @@
+com/mvc/Configuration/MainConfiguration.java
+ com.mvc.Configuration.MainConfiguration
+com/mvc/Configuration/FrontController.java
+ com.mvc.Configuration.FrontController
+com/mvc/Service/UserValidationService.java
+ com.mvc.Service.UserValidationService
+com/mvc/Controller/LoginController.java
+ com.mvc.Controller.LoginController
