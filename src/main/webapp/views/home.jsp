@@ -11,7 +11,7 @@
     <title>Coffee order</title>
 </head>
 <body>
-<div>Below are the coffee available today</div>
+<div >Below are the coffee available today</div>
 <input type="button" value="Black coffee"/>
 <input type="button" value="Tea"/>
 <input type="button" value="Cold coffee"/>

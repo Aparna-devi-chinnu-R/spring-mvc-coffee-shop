@@ -18,5 +18,9 @@
     <input type="submit" value="submit" style="size: 15px" />
 </form>
 ${status}
+<form action="/sign-up" method="GET">
+    <div>New customer?</div>
+    <input type="submit" name="signup" value="Signup">
+</form>
 </body>
 </html>

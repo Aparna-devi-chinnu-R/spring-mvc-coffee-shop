@@ -6,3 +6,5 @@ com/mvc/Service/UserValidationService.java
  com.mvc.Service.UserValidationService
 com/mvc/Controller/LoginController.java
  com.mvc.Controller.LoginController
+com/mvc/Controller/SignUpController.java
+ com.mvc.Controller.SignUpController
