@@ -13,9 +13,10 @@
 <body>
 <form action="/sign-up" method="post">
   <input type="text" name="username">
-  <input type="password" name="password" value="password">
-  <input type="password" name="confirm password" value="confirm password">
+  <input type="password" name="password" >
+  <input type="password" name="confirmPassword" >
   <input type="submit" value="submit">
 </form>
+${status}
 </body>
 </html>

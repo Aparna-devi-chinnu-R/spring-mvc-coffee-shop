@@ -1,6 +1,8 @@
-com/mvc/Controller/LoginControllerTest.java
- com.mvc.Controller.LoginControllerTest
 com/mvc/Service/UserValidationServiceTest.java
  com.mvc.Service.UserValidationServiceTest
+com/mvc/Controller/LoginControllerTest.java
+ com.mvc.Controller.LoginControllerTest
 com/mvc/Controller/SignUpControllerTest.java
  com.mvc.Controller.SignUpControllerTest
+com/mvc/Service/SignUpValidationServiceTest.java
+ com.mvc.Service.SignUpValidationServiceTest

@@ -6,5 +6,13 @@ com/mvc/Service/UserValidationService.java
  com.mvc.Service.UserValidationService
 com/mvc/Controller/LoginController.java
  com.mvc.Controller.LoginController
+com/mvc/Exceptions/InvalidPassword.java
+ com.mvc.Exceptions.InvalidPassword
+com/mvc/Exceptions/PasswordAndConfirmPasswordNotEqualException.java
+ com.mvc.Exceptions.PasswordAndConfirmPasswordNotEqualException
+com/mvc/Exceptions/InvalidUserName.java
+ com.mvc.Exceptions.InvalidUserName
+com/mvc/Service/SignUpValidationService.java
+ com.mvc.Service.SignUpValidationService
 com/mvc/Controller/SignUpController.java
  com.mvc.Controller.SignUpController
